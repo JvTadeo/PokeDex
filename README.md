@@ -8,7 +8,7 @@ Discover the fascinating world of Pokemon with our interactive React application
 
 # Installation
 To get started with this project, follow these steps:
-- Use `git clone https://github.com/JvTadeo/ToDo.git` to clone this repository.
+- Use `git clone https://github.com/JvTadeo/PokeDex.git` to clone this repository.
 - Once you have cloned the project, navigate to the project directory: `cd pokedex`
 - Next, you need to install the project dependencies. Run the following command: `npm install`
 - Now, simply run `npm run dev` to start the server.
@@ -16,6 +16,18 @@ To get started with this project, follow these steps:
 Now you're all set up and ready to use the project
 
 # Images
-<img src="./src/assets/img/Todo_Preview.png" width="650" alt="Preview Todo">
+> List Pokemon
 
-<img src="./src/assets/img/Todo_Preview_Tasks.png" width="650" alt="Preview Tasks">
+<img src="./public/imgs/List_Pokemons.png" width="650" alt="List all Pokeemon">
+
+> Pokemon Search
+
+<img src="./public/imgs/List_Query.png" width="650" alt="Pokemon Search">
+
+> Pokemons Stats
+
+<img src="./public/imgs/Pokemon_Stats.png" width="650" alt="Bulbasaur Stats">
+
+<img src="./public/imgs/Pokemon_Stats_2.png" width="650" alt="Charizard Stats">
+
+<img src="./public/imgs/Pokemon_Stats_3.png" width="650" alt="Horsea Stats">
